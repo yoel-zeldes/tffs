@@ -9,6 +9,8 @@ Use this project to map your model into a filesystem. Then, access your tensors 
 
 `tffs` is implemented using Filesystem in Userspace (FUSE). It requires `tensorflow` and [`fusepy`](https://github.com/fusepy/fusepy) to be installed.
 
+To learn more, read the accompanying [blog post](http://anotherdatum.com/tffs.html).
+
 
 ## Usage
 1. Create a model - out of the scope of this project :)
